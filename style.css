@@ -36,7 +36,7 @@ body {
   color: #222;
 }
 .container {
-  max-width: 500px;
+  max-width: 100px;
   margin: 0 auto;
 }
 
@@ -95,8 +95,9 @@ body {
  .about {
    text-align: center;
  }
-.post-author img,
 .about-author img {
+  width: 250px
+    height: 250px
   border-radius: 20%
 }
 .post-container:nth-child(even) {
