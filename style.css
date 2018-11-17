@@ -13,7 +13,8 @@ body {
   font-weight: bold;
 }
 #header-nav li {
-  display: inline;
+  display: block;
+  float: right;
   padding-right: 20px;
 }
 #header-nav {
