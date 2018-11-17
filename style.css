@@ -97,7 +97,7 @@ body {
  }
 .post-author img,
 .about-author img {
-  border-radius: 50%
+  border-radius: 20%
 }
 .post-container:nth-child(even) {
   background-color: #f2f2f2
